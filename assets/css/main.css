@@ -2075,9 +2075,10 @@ body.is-preload #wrapper {
 	align-items: center;
 }
 .jianli>img{
-	width: 800px;
-	height: 1132px;
+	width: 100%;
+	height: auto;
 	vertical-align: top;
+	background-size: contain;
 }
 .jianli_video{
 	display: flex;
